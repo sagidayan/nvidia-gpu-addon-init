@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <testsuite name="Config Suite" tests="1" failures="0" errors="0" time="0">
+      <testcase name="GlobalConfig Global config should be defaulted when no flags passed" classname="Config Suite" time="2.1759e-05"></testcase>
+  </testsuite>
